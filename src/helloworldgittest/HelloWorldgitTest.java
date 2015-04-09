@@ -15,7 +15,11 @@ public class HelloWorldgitTest {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("blargh");
+        System.out.println("blagh");
+        System.out.println("bleeb");
+    }
+    private void sayHello(){
+        System.out.println("bab");
     }
     
 }
